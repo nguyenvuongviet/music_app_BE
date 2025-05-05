@@ -15,5 +15,10 @@ Music App Backend là phần backend của ứng dụng nghe nhạc, cung cấp 
 
 - Đã thiết lập Java trong máy tính cá nhân và đã tải về Code Editor cho phép coding với Java.
 
+### Link FE
+
+- https://github.com/nguyenvuongviet/music_app_FE
+
 ### Link swagger 
+
 - http://localhost:8989/swagger-ui/index.html
